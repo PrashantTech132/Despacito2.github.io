@@ -12,7 +12,7 @@
 let allMusic = [
   {
     name: "Despacito",
-    artist: "DESPACITO",
+    artist: "Luis Fonsi",
     img: "DESPACITO",
     src: "DESPACITO"
   },
